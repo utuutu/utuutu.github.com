@@ -26,5 +26,21 @@ NC 다이노스. 만들어진지 3년밖에 되지 않은 신생팀이지만 첫
 >**관전포인트**:필자가 한화팬이지만 롯데의 경기는 항상 직관할때 더 더 더! 재미있는경기인건 틀림없다. 그 어떤 관전포인트보다 직관을 추천한다!
 
 
-####팀소개는 3편에서 계속됩니다.
+#### <a href="/team3"> 팀소개는 3편에서 계속됩니다. </a>
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'utuutu';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
 
