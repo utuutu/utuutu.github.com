@@ -17,54 +17,54 @@ image:
 
 ---
 
-#### * <a href="/utuutu.github.io/how_to_play_baseball/">야구경기 방법 및 포지션 </a>
+#### * <a href="utuutu.github.io/how_to_play_baseball/">야구경기 방법 및 포지션 </a>
 
 
 ---
 
 ## 2. 선수 소개
 
-#### * <a href="/utuutu.github.io/KANG-MIN-HO/"> 강민호 </a>
+#### * <a href="utuutu.github.io/KANG-MIN-HO/"> 강민호 </a>
 
 ---
 
-#### * <a href="/utuutu.github.io/KIM-TAE-HYUN/"> 김태현 </a>
+#### * <a href="utuutu.github.io/KIM-TAE-HYUN/"> 김태현 </a>
 
 ---
 
-#### * <a href="/utuutu.github.io/LEE-SEOUNG-YEUP/"> 이승엽 </a>
+#### * <a href="utuutu.github.io/LEE-SEOUNG-YEUP/"> 이승엽 </a>
 
 ---
 
 ## 3. 프로야구 팀 소개
 
-#### * <a href="/utuutu.github.io/team"> 팀 소개 1탄 </a>
+#### * <a href="utuutu.github.io/team"> 팀 소개 1탄 </a>
 
 ---
 
-#### * <a href="/utuutu.github.io/team2"> 팀 소개 2탄 </a>
+#### * <a href="utuutu.github.io/team2"> 팀 소개 2탄 </a>
 
 ---
 
-#### * <a href="/utuutu.github.io/team3"> 팀 소개 3탄 </a>
+#### * <a href="utuutu.github.io/team3"> 팀 소개 3탄 </a>
 
 ---
 
 ## 4. 야구 어디까지 봤니?
 
-#### * <a href="/utuutu.github.io/this_week_prize1/"> 금주의! - 5월 5째주 </a>
+#### * <a href="utuutu.github.io/this_week_prize1/"> 금주의! - 5월 5째주 </a>
 
 ---
 
-#### * <a href="/utuutu.github.io/this_week_prize2/"> 야구장을 여행하는 히치하이커를 위한 안내 </a>
+#### * <a href="utuutu.github.io/this_week_prize2/"> 야구장을 여행하는 히치하이커를 위한 안내 </a>
 
 ---
 
-#### * <a href="/utuutu.github.io/who-is-todays-star"> 거포본색 테이즈, 3연타석 홈런쇼 </a>
+#### * <a href="utuutu.github.io/who-is-todays-star"> 거포본색 테이즈, 3연타석 홈런쇼 </a>
 
 ---
 
-#### * <a href="/utuutu.github.io/400HR"> 살아있는 전설, 이승엽 </a>
+#### * <a href="/400HR"> 살아있는 전설, 이승엽 </a>
 
 ---
 
