@@ -28,7 +28,7 @@ image:
 
 ---
 
-#### -<a href="/KIM-TAE-HYUN/">김태현</a>
+#### -<a href="/KIM-TAE-KYUN/">김태균</a>
 
 ---
 

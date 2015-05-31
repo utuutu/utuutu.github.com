@@ -13,40 +13,40 @@ image:
 
 ## 1. 경기 규칙
 
-#### -<a href="baseball_rule/">야구경기 규칙 및 간단 소개</a>
+#### -<a href="/baseball_rule/">야구경기 규칙 및 간단 소개</a>
 
 ---
 
-#### -<a href="how_to_play_baseball/">야구경기 방법 및 포지션</a>
+#### -<a href="/how_to_play_baseball/">야구경기 방법 및 포지션</a>
 
 
 ---
 
 ## 2. 선수 소개
 
-#### -<a href="KANG-MIN-HO/">강민호</a>
+#### -<a href="/KANG-MIN-HO/">강민호</a>
 
 ---
 
-#### -<a href="KIM-TAE-HYUN/">김태현</a>
+#### -<a href="/KIM-TAE-HYUN/">김태현</a>
 
 ---
 
-#### -<a href="LEE-SEOUNG-YEUP/">이승엽</a>
+#### -<a href="/LEE-SEOUNG-YEUP/">이승엽</a>
 
 ---
 
 ## 3. 프로야구 팀 소개
 
-#### -<a href="team">팀 소개 1탄</a>
+#### -<a href="/team">팀 소개 1탄</a>
 
 ---
 
-#### -<a href="team2">팀 소개 2탄</a>
+#### -<a href="/team2">팀 소개 2탄</a>
 
 ---
 
-#### -<a href="team3">팀 소개 3탄</a>
+#### -<a href="/team3">팀 소개 3탄</a>
 
 ---
 
