@@ -47,3 +47,20 @@ tags: []
 
 >이와 같이 공격측이 쓰리아웃 되기 전까지 주자가 홈으로 돌아오면 1점씩 득점이 되는데, 타자가 1루에 덯기 전에 아웃이 되는 경우에는 주자가 먼저 홈에 들어오더라도 득점이 되지 못한다. 쓰리아웃 되면 공격과 수비를 교대하여 진행한다.
 
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'utuutu';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+

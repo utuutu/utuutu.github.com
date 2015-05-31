@@ -5,7 +5,7 @@ modified:
 excerpt: "삼성, 두산, LG"
 tags: []
 ---
-#팀 소개
+##팀 소개
 ---
 
 야구를 보려해도 보다보면 보이는 참 많은팀들. 8개? 9개? 10개? 요즘들어 느낌상 매번 변하는듯한 팀 수와 요즘에 한화가 달라졌다는데, 삼성이 잘하는 팀이지? 정도의 귓동냥으로만 듣다보면 막상 야구를보려하니 도대체 뭐가 뭔지 무슨팀이 있는지 헛갈릴법도 하다. 그런 당신을 위해 준비했다.
@@ -43,4 +43,19 @@ tags: []
 >**관전포인트:** 엘지, 올해에도 응답하라 1994와 같은 면모를 보여줄 수 있을까?
 
 ####팀소개는 2편에서 계속됩니다.
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'utuutu';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
