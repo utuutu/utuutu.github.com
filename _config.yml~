@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:           茶山夜(野)話
 locale:           en_US
 url:              
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Up Team is Up
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "올라갈 팀은 올라간다."
   email: 
   disqus-shortname: 
   twitter: #username
