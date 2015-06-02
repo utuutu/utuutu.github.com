@@ -54,3 +54,20 @@ tags: []
 개막이후 11연패를 하는 등 전무후무한 기록을 새웠지만, 이들에게 한화의 야구경기는 이기고 지는 것을 떠나
 *'스포츠 그 자체의 재미를 가장 잘 즐기는 사람들'*이 아닐까 싶다.***(물론 요즘에는 야구볼 맛 난다고 정말로 행복해 하는 사람들이긴 하다.ㅋㅋ)***
 
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'utuutu';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+
