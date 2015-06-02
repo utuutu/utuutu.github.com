@@ -6,8 +6,6 @@ excerpt: "강민호 선수 - 롯데 자이언츠"
 tags: []
 ---
 
-강민호
-===
 
 >![profile](http://tv03.search.naver.net/thm?size=120x150&quality=9&q=http://sstatic.naver.net/people/167/201503201400217531.jpg)
 > 
