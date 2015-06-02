@@ -5,7 +5,6 @@ locale:
 url:              
 
 
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/
