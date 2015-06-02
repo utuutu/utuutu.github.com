@@ -1,20 +1,38 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+Jung_a:
+  name: Jung-a Park
+  web: http://utuutu.gitgub.io
+  email: 
+  bio: "Hi."
   avatar: bio-photo-2.jpg
   twitter: extravagantman
   google:
     plus: BillyRick
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
+Jae-yun:
+  name: Jaeyun Song
+  email: http://utuutu.gitgub.io
+  bio: "Hi."
+  avatar: bio-photo-2.jpg
+  twitter: rhymeswithsackit
+  google: jaeyun731
+    plus:
+
+Kyeong-seo:
+  name: Kyeong-seo Shin
+  email: http://utuutu.gitgub.io
+  bio: "Hi."
+  avatar: bio-photo-2.jpg
   twitter: rhymeswithsackit
   google:
-    plus: CorneliusFiddlebone
+    plus:
+
+Su-min:
+  name: Su-min Lim
+  email: http://utuutu.gitgub.io
+  bio: "Hi."
+  avatar: bio-photo-2.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus:

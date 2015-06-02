@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:           茶山夜(野)話
-locale:           en_US
+locale:           
 url:              
 
 
@@ -28,7 +28,8 @@ kramdown:
 owner:
   name: Up Team is Up
   avatar: bio-photo.jpg
-  bio: "올라갈 팀은 올라간다."
+  bio: "올라갈 팀은 올라간다.
+	박정아, 송재윤, 신경서, 임수민"
   email: 
   disqus-shortname: utuutu 
   twitter: #username

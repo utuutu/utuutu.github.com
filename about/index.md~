@@ -1,22 +1,19 @@
 ---
 layout: page
-title: About the Blog
+title: Up Team is Up's Blog
 tags: [about, Jekyll, blog]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 
 comments: true
 image:
   feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 
 Blog for baseball
 
-##다산야화
+##다산야화 - 茶山夜(野)話
 
 
-* 다산에서 밤에 야구에 대해 말하다.
-* 다산에서 노숙하며 만든 블로그
+* 다산에서 밤에 야구에 대해 말하다
 
 <a markdown="0" href="http://github.com/utuutu" class="btn">Our Github Site</a>
