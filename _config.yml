@@ -1,13 +1,9 @@
 # Site wide configuration
 
 title:           茶山夜(野)話
-<<<<<<< HEAD
 locale:           
 url:              
-=======
-locale:           en_US
-url:         
->>>>>>> 5e3fd453cd5d47a49cb0a4aea249322250a9df51
+
 
 
 # Jekyll configuration
