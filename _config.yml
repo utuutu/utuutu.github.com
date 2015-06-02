@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Up Team is Up
-  avatar: ./images/bio-photo.jpg
+  avatar: bio-photo.jpg
   bio: "올라갈 팀은 올라간다."
   email: 
   disqus-shortname: utuutu 
